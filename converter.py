@@ -154,13 +154,13 @@ st.markdown(
     """
     <div style="text-align: center; margin-top: 20px;">
         <p style="font-size: 1.2rem;">🚀 Unit Converter by <strong>SAYYED JALEES</strong></p>
-        <a href="https://github.com/yourgithub" target="_blank" style="margin: 0 10px; text-decoration: none;">
+        <a href="https://github.com/syedjalees/unit-converter-py-sirZia" target="_blank" style="margin: 0 10px; text-decoration: none;">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40px" alt="GitHub">
         </a>
-        <a href="https://share.streamlit.io/yourapp" target="_blank" style="margin: 0 10px; text-decoration: none;">
+        <a href="https://unit-converter-sirzia.streamlit.app/" target="_blank" style="margin: 0 10px; text-decoration: none;">
             <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40px" alt="Streamlit">
         </a>
-        <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank" style="margin: 0 10px; text-decoration: none;">
+        <a href="https://www.linkedin.com/in/sayyed-jalees-a9ba0817b/" target="_blank" style="margin: 0 10px; text-decoration: none;">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="LinkedIn">
         </a>
     </div>
